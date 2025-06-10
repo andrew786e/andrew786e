@@ -25,7 +25,6 @@
 
 <div align="center">
   <a href="https://github.com/andrew786e">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrew786e&show_icons=true&locale=en&theme=github_dark" height="150" alt="yenosibina" />&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew786e&theme=dark" height="150" alt="yenosibina" />&nbsp;&nbsp;
   </a>
 </div>
